@@ -16,10 +16,3 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Pedro-img" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/99484883/196014412-f86db68d-a4e8-4ce5-9c4b-a87ce3106027.png)
-">
-</div>
-  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pedro-azevedo-martinelli-775843232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/pedro-azevedo-martinelli-775843232?trk=profile-badge">Pedro Azevedo Martinelli</a></div>
-              
