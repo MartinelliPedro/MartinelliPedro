@@ -3,6 +3,7 @@
 - 🏠 I'm Brazilian
 - 🏫 Studying Information Systems Faculty
 - 🔎 I am constantly learning programming
+- Linkedin = https://www.linkedin.com/in/pedro-azevedo-martinelli-775843232/
 
 <div align="center">
   <a href="https://github.com/MartinelliPedro">
