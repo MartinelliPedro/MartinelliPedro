@@ -1,7 +1,6 @@
-## 👋😉| Be welcome! My name is Pedro Azevedo Martinelli
+## 👋😉| Be Welcome! My name is Pedro Azevedo Martinelli
 
 - 🏠 I'm Brazilian
-- ⌛ I'm 18 years
 - 🏫 Studying Information Systems Faculty
 - 🔎 I am constantly learning with programming
 
